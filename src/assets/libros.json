@@ -1,0 +1,58 @@
+{
+  "persons": [],
+  "users": [
+    {
+      "email": "andugg@mail.com",
+      "password": "$2a$10$2LOD1E2WQa3Q7UrUnpoia.hdiL4lGKA0dsXXO9EtmWt901F6bsgGC",
+      "id": 1
+    },
+    {
+      "email": "joxxx@mail.com",
+      "password": "$2a$10$l12ca7MRaUM51ngURqKxnOgyYQvpZv95lX.86SthDgW/EzlCNdL9i",
+      "id": 2
+    },
+    {
+      "email": "andito@mail.com",
+      "password": "$2a$10$b9pFJyKL47emSzpyg/Sdv.0Yi6I/Y/nJ80PoGplajyNIP/ASZMbye",
+      "id": 3
+    },
+    {
+      "email": "davidc65@mail.com",
+      "password": "$2a$10$pkYi1Q0pN7j89WclsQRR/uNr6Cc6pKy8PylYqvHjon2u2iL/6fCh6",
+      "rol": "user",
+      "id": 4
+    }
+  ],
+  "libros": [
+    {
+      "id": "1",
+      "autor": "Bryce Echenique, A.",
+      "titulolibro": "El huerto de mi amada",
+      "aniopublicado": " 2002"
+    },
+    {
+      "id": "2",
+      "autor": "Cook, R.",
+      "titulolibro": "Intención criminal",
+      "aniopublicado": " 1990"
+    },
+    {
+      "id": "3",
+      "autor": "Donoso, J.",
+      "titulolibro": " El obsceno pájaro de la noche",
+      "aniopublicado": " 2001"
+    },
+    {
+      "id": "4",
+      "autor": "Etxebarria, L.",
+      "titulolibro": " Amor, curiosidad, prozac y dudas",
+      "aniopublicado": "2001"
+    },
+    {
+      "id": "5",
+      "autor": "Gide, A.",
+      "titulolibro": " Los monederos falsos",
+      "aniopublicado": "1984"
+    }
+  ]
+}
